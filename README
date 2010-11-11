@@ -1,0 +1,9 @@
+The main idea behind this project is to able to embed videos from popular video sites like YouTube
+
+Current this plugin supports:
+
+1. YouTube
+2. Megavideo
+3. Hulu
+
+This plugin is based on the <a href='http://wordpress.org/extend/plugins/wordpress-video-plugin/'>Wordpress Video plugin</a>.
